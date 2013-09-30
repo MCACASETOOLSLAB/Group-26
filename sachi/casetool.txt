@@ -1,0 +1,9 @@
+<html>
+<title>Security Room</title>
+<head><h1><center>Welcome to the Security Room</center></h1></head>
+<body>
+<a href ="Semaphore.html">Critical Section</a></br>
+<a href="images.html" >Busy Waiting</a></br>
+<a href="images.html">Semaphore</a></br>
+</body>
+</html>
