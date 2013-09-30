@@ -1,0 +1,21 @@
+<html>
+<title>Security Room</title>
+<head><h1><center>Welcome to the Security Room</center></h1></head>
+<head>
+<style> 
+body
+{
+background:url("4.png");
+background-size:1200px 680px;
+background-repeat:no-repeat;
+padding-top:40px;
+padding-left:600px;
+}
+</style>
+</head>
+<body>
+<a href ="Semaphore.html"><font size="5"> Critical  Section</font>  </a></br>
+<a href="images.html" ><font size="5"> Busy Waiting</font></a></br>
+<a href="images.html"><font size="5"> Semaphore</font></a></br>
+</body>
+</html>
