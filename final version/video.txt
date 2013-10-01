@@ -1,0 +1,30 @@
+<html>
+<head>
+</head>
+<head>
+<style> 
+body
+{
+background:url("4.png");
+background-size:1200px 680px;
+background-repeat:no-repeat;
+padding-top:40px;
+padding-left:600px;
+}
+</style>
+</head>
+<body><video width="700" height="300" controls>
+  <source src="1.mp4" type="video/mp4">
+  
+  <object data="1.mp4" width="700" height="300">
+    <embed src="1.swf" width="700" height="300">
+  </object> 
+</video>
+<FORM>
+
+<INPUT TYPE="button" value="image" onClick="parent.location='images.html'">
+<INPUT TYPE="button" value="audio" onClick="parent.location='audio.html'">
+</FORM>
+</body>
+
+</html>
