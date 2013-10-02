@@ -1,6 +1,6 @@
 <html>
 <title>Security Room</title>
-<head><h1><center>Welcome to the Security Room</center></h1></head>
+<head><h1><center><font color="Red>"Welcome to the Security Room</font></center></h1></head>
 <head>
 <style> 
 body
