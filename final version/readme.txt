@@ -1,4 +1,8 @@
-Problem statement: Security System
+Problem statement: 
+					Security System
+					
+--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
 
 1) Here audio video and images can be seen and listen by output devices like 
 "display monitor and audio device"
